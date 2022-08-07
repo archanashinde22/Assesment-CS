@@ -15,7 +15,7 @@ let addToZero = (numArr) => {
 };
 
 //Run : O(n^2)
-//space O(n)
+//space O(1)
 
 // console.log(addToZero([1,2,3,-2]))
 // // -> False
@@ -81,7 +81,7 @@ const isPangram = (str) => {
 };
 
 // RUN : O(n)
-// space : O(n)
+// space : O(1)
 // For example:
 
 // isPangram("The quick brown fox jumps over the lazy dog!");
